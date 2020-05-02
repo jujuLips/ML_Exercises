@@ -10,3 +10,6 @@ Assistance provided:
 * [Imran Ture](https://github.com/imranture) (Python programming).
 
 The tutorials are published in [Feature Ranking.com](https://www.featureranking.com/ml-tutorials/).
+
+
+Taken from site :       https://github.com/imranture/ml_course
